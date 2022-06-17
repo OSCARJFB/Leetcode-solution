@@ -1,1 +1,2 @@
-# Leetcode-solution
+# Leetcode-solutions
+leetcode solutions, not perfection but just practice. ;)
